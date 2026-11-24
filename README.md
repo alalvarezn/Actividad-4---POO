@@ -12,4 +12,3 @@ Solución en Python de los ejercicios 6.4 a 6.8 (excepciones, con interfaz gráf
 - `ejercicio_6_6_calculos_numericos.py` — Ejercicio 6.6 Cálculos numéricos
 - `ejercicio_6_7_equipo_maraton.py` — Ejercicio 6.7 Equipo maratón de programación
 - `ejercicio_6_8_leer_archivo.py` — Ejercicio 6.8 Leer archivo
-- `prueba.txt` — Archivo de texto que lee el ejercicio 6.8
